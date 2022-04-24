@@ -5,7 +5,7 @@ package com.ty.chapter05
  * @date 2022/4/17 15:16
  * @describe
  */
-object Test08_practice {
+object Test08_Practice {
   def main(args: Array[String]): Unit = {
     /*
     练习 1：定义一个匿名函数，并将它作为值赋给变量fun。函数有三个参数，类型分别为：Int，String，Char，返回值类型为：Boolean。
